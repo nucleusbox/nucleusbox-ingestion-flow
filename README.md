@@ -1,0 +1,2 @@
+# nucleusbox-ingestion-flow
+Nucleusbox data ingestion flow project, which will help in, Without writing a single line of code you can get large no streaming an batch data from large #(no) of sources, perform transform and sanitize data history and wright that in large no of destination, when the pipeline get place in operation you can get fine way to data flow matrix, detection of normality of data. Monitoring like Record count, record throughput, how much time spend each processor, memory consumption 
